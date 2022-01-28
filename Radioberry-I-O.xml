@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\kdanner\Documents\GitHub\Radioberry-2-I-O\Radioberry-I-O.kicad_sch</source>
+    <date>1/28/2022 12:35:43 AM</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Radioberry 2 I/O</title>
+        <company>KD9S</company>
+        <rev>1.0</rev>
+        <date>2022-01-27</date>
+        <source>Radioberry-I-O.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E105KAAD-01.pdf</datasheet>
+      <fields>
+        <field name="Part Number">GRM188R61E105KAADD</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Part Number" value="GRM188R61E105KAADD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bbc3942-aba5-467b-a5a3-14d3b10dc7dc</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E105KAAD-01.pdf</datasheet>
+      <fields>
+        <field name="Part Number">GRM188R61E105KAADD</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Part Number" value="GRM188R61E105KAADD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b436f54e-81ad-4154-abff-9ed620bbdcd9</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E105KAAD-01.pdf</datasheet>
+      <fields>
+        <field name="Part Number">GRM188R61E105KAADD</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Part Number" value="GRM188R61E105KAADD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>893548a4-a1be-4968-b547-8392d529c003</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E105KAAD-01.pdf</datasheet>
+      <fields>
+        <field name="Part Number">GRM188R61E105KAADD</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Part Number" value="GRM188R61E105KAADD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7726cf3d-761b-4f8f-8364-9a1ddde550dd</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>RCA Jack</value>
+      <footprint>Radioberry-I-O:PhonoRcaRCJ-04x</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/rcj-04x.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RCJ-041</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="Audio-Jack-2" description=""/>
+      <property name="Part Number" value="RCJ-041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8c9423a-f22a-4fde-b09c-9425ef6569c1</tstamps>
+    </comp>
+    <comp ref="CN2">
+      <value>RCA Jack</value>
+      <footprint>Radioberry-I-O:PhonoRcaRCJ-04x</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/rcj-04x.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RCJ-041</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="Audio-Jack-2" description=""/>
+      <property name="Part Number" value="RCJ-041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2777baf-dd32-47b5-bbe8-3fbdc1ea28b5</tstamps>
+    </comp>
+    <comp ref="CN3">
+      <value>3.5mm stereo jack</value>
+      <footprint>Radioberry-I-O:STEREO</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/sj1-352xn.pdf</datasheet>
+      <fields>
+        <field name="Part Number">SJ1-3525N</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="STEREO" description=""/>
+      <property name="Part Number" value="SJ1-3525N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf068891-b6de-443a-8051-63b09f76c9a5</tstamps>
+    </comp>
+    <comp ref="CN4">
+      <value>3.5mm stereo jack</value>
+      <footprint>Radioberry-I-O:STEREO</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/sj1-352xn.pdf</datasheet>
+      <fields>
+        <field name="Part Number">SJ1-3525N</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="STEREO" description=""/>
+      <property name="Part Number" value="SJ1-3525N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>088f7585-2614-4fb5-b1bb-479fead8450f</tstamps>
+    </comp>
+    <comp ref="CN5">
+      <value>3.5mm stereo jack</value>
+      <footprint>Radioberry-I-O:STEREO</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/sj1-352xn.pdf</datasheet>
+      <fields>
+        <field name="Part Number">SJ1-3525N</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="STEREO" description=""/>
+      <property name="Part Number" value="SJ1-3525N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46b42ee7-d1c3-495c-8abc-011046f7daa1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>2x10 female header 2.54mm</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical</footprint>
+      <datasheet>https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/76342.pdf</datasheet>
+      <fields>
+        <field name="Part Number">76342-310LF</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Part Number" value="76342-310LF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38efeb53-4219-4d99-b1d1-0a3856681a78</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>2x7 male header 2.54mm</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical</footprint>
+      <datasheet>https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/67996.pdf</datasheet>
+      <fields>
+        <field name="Part Number">67996-114HLF</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x07_Odd_Even" description="Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Part Number" value="67996-114HLF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b41eece8-0cd6-4cf4-9456-0e92b59145a9</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>30mm Fan</value>
+      <footprint>HL2 hiflow rear endcap:fan30_big_hole</footprint>
+      <datasheet>https://www.mechatronics.com/pdf/MR3010.pdf</datasheet>
+      <fields>
+        <field name="Part Number">MR3010H05B-RSR</field>
+      </fields>
+      <libsource lib="Motor" part="Fan" description="Fan"/>
+      <property name="Part Number" value="MR3010H05B-RSR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6057a9ce-10dd-4287-acf4-8bbacff68b69</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>NUD3160LT1G</value>
+      <footprint>Radioberry-I-O:SOT23_3</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/nud3160-d.pdf</datasheet>
+      <fields>
+        <field name="Part Number">NUD3160LT1G</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="MOSFET_N" description=""/>
+      <property name="Part Number" value="NUD3160LT1G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fb1b5fd-17ff-457e-aac9-f43a3f9efce7</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>NUD3160LT1G</value>
+      <footprint>Radioberry-I-O:SOT23_3</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/nud3160-d.pdf</datasheet>
+      <fields>
+        <field name="Part Number">NUD3160LT1G</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="MOSFET_N" description=""/>
+      <property name="Part Number" value="NUD3160LT1G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9be540f9-c35f-4a0f-9a89-1391f5f30335</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603FR-074K7L</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="RC0603FR-074K7L" description="Resistor"/>
+      <property name="Part Number" value="RC0603FR-074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>014f1669-ae08-450a-b680-baefaf87ddba</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603FR-074K7L</field>
+      </fields>
+      <libsource lib="Radioberry-I-O" part="RC0603FR-074K7L" description="Resistor"/>
+      <property name="Part Number" value="RC0603FR-074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f8bf14c-ef60-4590-a0bc-3869edb6b245</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_8.pdf</datasheet>
+      <fields>
+        <field name="Part Number">AC0603FR-07100RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="AC0603FR-07100RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89713f39-a2eb-4d3d-87b7-3fd5d49eebaf</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603FR-072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603FR-072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fb07990-260f-4e45-bef3-febb87238ddf</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_8.pdf</datasheet>
+      <fields>
+        <field name="Part Number">AC0603FR-07100RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="AC0603FR-07100RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f98a37f-3bfa-474f-8a06-6610d7eec05f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603FR-072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603FR-072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ba613b4-feb6-4237-a6bd-964d9d4d5a98</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_8.pdf</datasheet>
+      <fields>
+        <field name="Part Number">AC0603FR-07100RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="AC0603FR-07100RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>699414e5-9e8e-43b3-b0d5-391b253da3f9</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603FR-072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603FR-072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0cb8d98-85d0-4646-b280-404688017040</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_8.pdf</datasheet>
+      <fields>
+        <field name="Part Number">AC0603FR-07100RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="AC0603FR-07100RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad1a4198-27ea-4a44-a79f-7785719851a1</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603FR-072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603FR-072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a96b940-e2a6-45e1-abf8-656c3841ba80</tstamps>
+    </comp>
+    <comp ref="R101">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3764f606-5155-400f-a653-34b20e70df19</tstamps>
+    </comp>
+    <comp ref="R102">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9cb8903-e934-4e9d-abee-2d4d49b26f24</tstamps>
+    </comp>
+    <comp ref="R103">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e40ef645-907e-4472-b42c-13a269e75dcc</tstamps>
+    </comp>
+    <comp ref="R104">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38927b0d-4001-4285-9790-6abff7dc7f9d</tstamps>
+    </comp>
+    <comp ref="R105">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f7b8689-b057-439f-a046-a8ddddde2f33</tstamps>
+    </comp>
+    <comp ref="R106">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61a9c54a-87f6-461a-9dc6-793bf361824c</tstamps>
+    </comp>
+    <comp ref="R107">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c241a0e-e834-4b05-b1e5-fd38a2b25031</tstamps>
+    </comp>
+    <comp ref="R108">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Part Number">RC0603JR-130RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part Number" value="RC0603JR-130RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e68a4d87-375c-497a-a81c-abb9c3152ff5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_02x07_Odd_Even">
+      <description>Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x07_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x10_Odd_Even">
+      <description>Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x10_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Fan">
+      <description>Fan</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>PinHeader*P2.54mm*</fp>
+        <fp>TerminalBlock*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Fan</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Radioberry-I-O" part="Audio-Jack-2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Audio-Jack-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Radioberry-I-O" part="MOSFET_N">
+      <fields>
+        <field name="Reference">Q202</field>
+        <field name="Value">MOSFET_N</field>
+        <field name="Footprint">HERMESLITE:SOT23_3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Radioberry-I-O" part="RC0603FR-074K7L">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R216</field>
+        <field name="Value">RC0603FR-074K7L</field>
+        <field name="Footprint">HERMESLITE:SMD-0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Radioberry-I-O" part="STEREO">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">STEREO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Motor">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Motor.kicad_sym</uri>
+    </library>
+    <library logical="Radioberry-I-O">
+      <uri>C:\Users\kdanner\Documents\GitHub\Radioberry-2-I-O/Radioberry-I-O.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="M1" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="3" name="DASH">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R103" pin="2" pintype="passive"/>
+      <node ref="R104" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="DOT">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R102" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="EXTTR">
+      <node ref="CN1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="2" pintype="passive"/>
+      <node ref="CN2" pin="2" pintype="passive"/>
+      <node ref="CN3" pin="1" pintype="input"/>
+      <node ref="CN4" pin="1" pintype="input"/>
+      <node ref="CN5" pin="1" pintype="input"/>
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="M1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="INTTR">
+      <node ref="CN2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="8" name="KEY">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R105" pin="2" pintype="passive"/>
+      <node ref="R106" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(CN3-Pad2)">
+      <node ref="CN3" pin="2" pintype="input"/>
+      <node ref="R102" pin="1" pintype="passive"/>
+      <node ref="R103" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(CN3-Pad3)">
+      <node ref="CN3" pin="3" pintype="input"/>
+      <node ref="R101" pin="1" pintype="passive"/>
+      <node ref="R104" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(CN4-Pad2)">
+      <node ref="CN4" pin="2" pintype="input"/>
+      <node ref="R106" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(CN4-Pad3)">
+      <node ref="CN4" pin="3" pintype="input"/>
+      <node ref="R105" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(CN5-Pad2)">
+      <node ref="CN5" pin="2" pintype="input"/>
+      <node ref="R108" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(CN5-Pad3)">
+      <node ref="CN5" pin="3" pintype="input"/>
+      <node ref="R107" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="PTT">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R107" pin="2" pintype="passive"/>
+      <node ref="R108" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="rb_dash">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="rb_dot">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="rb_exttr">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="rb_inttr">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="rb_key">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="rb_ptt">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(CN3-Pad4)">
+      <node ref="CN3" pin="4" pintype="input+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(CN3-Pad5)">
+      <node ref="CN3" pin="5" pintype="input+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(CN4-Pad4)">
+      <node ref="CN4" pin="4" pintype="input+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(CN4-Pad5)">
+      <node ref="CN4" pin="5" pintype="input+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(CN5-Pad4)">
+      <node ref="CN5" pin="4" pintype="input+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(CN5-Pad5)">
+      <node ref="CN5" pin="5" pintype="input+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J1-Pad10)">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J1-Pad11)">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(J1-Pad12)">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(J1-Pad15)">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(J1-Pad16)">
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(J1-Pad17)">
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J1-Pad18)">
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
