@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\kdanner\Documents\GitHub\Radioberry-2-I-O\Radioberry-I-O.kicad_sch</source>
-    <date>1/28/2022 12:35:43 AM</date>
+    <date>2/14/2022 4:55:38 PM</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -181,12 +181,12 @@
     <comp ref="M1">
       <value>30mm Fan</value>
       <footprint>HL2 hiflow rear endcap:fan30_big_hole</footprint>
-      <datasheet>https://www.mechatronics.com/pdf/MR3010.pdf</datasheet>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/3368_Web.pdf</datasheet>
       <fields>
-        <field name="Part Number">MR3010H05B-RSR</field>
+        <field name="Part Number">3368</field>
       </fields>
       <libsource lib="Motor" part="Fan" description="Fan"/>
-      <property name="Part Number" value="MR3010H05B-RSR"/>
+      <property name="Part Number" value="3368"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Radioberry-I-O.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>

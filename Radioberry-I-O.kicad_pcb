@@ -263,7 +263,7 @@
   (footprint "HL2 hiflow rear endcap:fan30_big_hole" (layer "F.Cu")
     (tedit 5FDE4D78) (tstamp 7bacf901-ae88-4075-afe6-649bfd5bc0f3)
     (at 70.5 90)
-    (property "Part Number" "MR3010H05B-RSR")
+    (property "Part Number" "3368")
     (property "Sheetfile" "Radioberry-I-O.kicad_sch")
     (property "Sheetname" "")
     (path "/6057a9ce-10dd-4287-acf4-8bbacff68b69")
